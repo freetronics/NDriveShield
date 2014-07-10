@@ -1,0 +1,290 @@
+Cmp-Mod V01 Created by Cvpcb (2014-06-03 BZR 4917)-product   date = Thu 10 Jul 2014 12:15:34 EST
+
+BeginCmp
+TimeStamp = /53BDE602;
+Reference = J1;
+ValeurCmp = M03;
+IdModule  = FT:SCREWTERMINAL-3.5MM-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE0A21;
+Reference = J2;
+ValeurCmp = M03;
+IdModule  = FT:SCREWTERMINAL-3.5MM-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE135B;
+Reference = J3;
+ValeurCmp = M03;
+IdModule  = FT:SCREWTERMINAL-3.5MM-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2A35;
+Reference = J4;
+ValeurCmp = M03;
+IdModule  = FT:SCREWTERMINAL-3.5MM-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2A80;
+Reference = J5;
+ValeurCmp = M03;
+IdModule  = FT:SCREWTERMINAL-3.5MM-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2ACB;
+Reference = J6;
+ValeurCmp = M03;
+IdModule  = FT:SCREWTERMINAL-3.5MM-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BDDE77;
+Reference = JP1;
+ValeurCmp = M08;
+IdModule  = FT:1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BDDD8A;
+Reference = JP2;
+ValeurCmp = M06;
+IdModule  = FT:1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BDDBD8;
+Reference = JP3;
+ValeurCmp = M10;
+IdModule  = FT:1X10;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BDDB94;
+Reference = JP4;
+ValeurCmp = M08;
+IdModule  = FT:1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BDDA15;
+Reference = Q1;
+ValeurCmp = NTD5867NLT4G;
+IdModule  = FT:MOSFET_DPAK;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE0A0F;
+Reference = Q2;
+ValeurCmp = NTD5867NLT4G;
+IdModule  = FT:MOSFET_DPAK;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE1349;
+Reference = Q3;
+ValeurCmp = NTD5867NLT4G;
+IdModule  = FT:MOSFET_DPAK;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2A23;
+Reference = Q4;
+ValeurCmp = NTD5867NLT4G;
+IdModule  = FT:MOSFET_DPAK;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2A6E;
+Reference = Q5;
+ValeurCmp = NTD5867NLT4G;
+IdModule  = FT:MOSFET_DPAK;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2AB9;
+Reference = Q6;
+ValeurCmp = NTD5867NLT4G;
+IdModule  = FT:MOSFET_DPAK;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BDF0DF;
+Reference = RG1;
+ValeurCmp = 1K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE0A48;
+Reference = RG2;
+ValeurCmp = 1K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE1382;
+Reference = RG3;
+ValeurCmp = 1K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2A5C;
+Reference = RG4;
+ValeurCmp = 1K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2AA7;
+Reference = RG5;
+ValeurCmp = 1K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2AF2;
+Reference = RG6;
+ValeurCmp = 1K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2AF8;
+Reference = RG7;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BDF1FA;
+Reference = RS1;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE0A4E;
+Reference = RS2;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE1388;
+Reference = RS3;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2A62;
+Reference = RS4;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2AAD;
+Reference = RS5;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BDDA7C;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = FT:ARDUINO_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BDE32B;
+Reference = SJG1;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE0A15;
+Reference = SJG2;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE134F;
+Reference = SJG3;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2A29;
+Reference = SJG4;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2A74;
+Reference = SJG5;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2ABF;
+Reference = SJG6;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BDEB00;
+Reference = SJS1;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE0A30;
+Reference = SJS2;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE136A;
+Reference = SJS3;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2A44;
+Reference = SJS4;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2A8F;
+Reference = SJS5;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BE2ADA;
+Reference = SJS6;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+EndListe
