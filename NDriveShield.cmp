@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-06-03 BZR 4917)-product   date = Thu 17 Jul 2014 09:19:31 EST
+Cmp-Mod V01 Created by Cvpcb (2014-07-25 BZR 5027)-product   date = Thu 28 Aug 2014 12:27:15 EST
 
 BeginCmp
 TimeStamp = /53BDDE77;
@@ -155,7 +155,7 @@ IdModule  = FT:RES_CAY16;
 EndCmp
 
 BeginCmp
-TimeStamp = /53C19BC7;
+TimeStamp = /53C19B8E;
 Reference = R5;
 ValeurCmp = 500;
 IdModule  = FT:RES_CAY16;
@@ -173,6 +173,13 @@ TimeStamp = /53BDDA7C;
 Reference = SHIELD1;
 ValeurCmp = ARDUINO_SHIELD;
 IdModule  = FT:ARDUINO_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE9171;
+Reference = SW1;
+ValeurCmp = SW_PUSHBUTTON;
+IdModule  = FT:TACTILE_SWITCH_SMD_2PIN_TINY;
 EndCmp
 
 EndListe
