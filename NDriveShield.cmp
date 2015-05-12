@@ -1,32 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-07-25 BZR 5027)-product   date = Thu 28 Aug 2014 12:27:15 EST
-
-BeginCmp
-TimeStamp = /53BDDE77;
-Reference = JP1;
-ValeurCmp = M08;
-IdModule  = FT:1X08;
-EndCmp
-
-BeginCmp
-TimeStamp = /53BDDD8A;
-Reference = JP2;
-ValeurCmp = M06;
-IdModule  = FT:1X06;
-EndCmp
-
-BeginCmp
-TimeStamp = /53BDDBD8;
-Reference = JP3;
-ValeurCmp = M10;
-IdModule  = FT:1X10;
-EndCmp
-
-BeginCmp
-TimeStamp = /53BDDB94;
-Reference = JP4;
-ValeurCmp = M08;
-IdModule  = FT:1X08;
-EndCmp
+Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Thu 07 May 2015 10:34:41 AEST
 
 BeginCmp
 TimeStamp = /53BFAEBB;
@@ -136,7 +108,7 @@ EndCmp
 BeginCmp
 TimeStamp = /53C1567A;
 Reference = R2;
-ValeurCmp = 500;
+ValeurCmp = 470R;
 IdModule  = FT:RES_CAY16;
 EndCmp
 
@@ -157,7 +129,7 @@ EndCmp
 BeginCmp
 TimeStamp = /53C19B8E;
 Reference = R5;
-ValeurCmp = 500;
+ValeurCmp = 470R;
 IdModule  = FT:RES_CAY16;
 EndCmp
 
@@ -172,7 +144,7 @@ BeginCmp
 TimeStamp = /53BDDA7C;
 Reference = SHIELD1;
 ValeurCmp = ARDUINO_SHIELD;
-IdModule  = FT:ARDUINO_SHIELD;
+IdModule  = FT:ARDUINO_SHIELD_ROUNDPADS_BREAKOUT;
 EndCmp
 
 BeginCmp

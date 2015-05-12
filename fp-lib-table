@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name FT)(type KiCad)(uri ${KIPRJMOD}/library/freetronics_footprints.pretty)(options "")(descr "Freetronics parts library"))
+)

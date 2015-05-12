@@ -1,20 +1,12 @@
-update=Thu 10 Jul 2014 16:08:40 EST
-last_client=eeschema
+update=Thu 07 May 2015 10:43:07 AEST
+last_client=kicad
 [general]
 version=1
 [eeschema]
 version=1
-PageLayoutDescrFile=
-SubpartIdSeparator=0
-SubpartFirstId=65
 LibDir=
-NetFmtName=PcbnewAdvanced
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [eeschema/libraries]
-LibName1=library/freetronics_kicad_sch_lib
+LibName1=library/freetronics_schematic
 LibName2=power
 LibName3=device
 LibName4=transistors
