@@ -1,6 +1,20 @@
-*-bak
-*.bak
+# Backup and cache files
+*bak
+*bck
+_autosave*
 *.svg
 *~
 *.ps
 output
+
+# Autoroute files
+*.dsn
+*.rules
+*.ses
+
+#Gerber delivery zip
+*.zip
+
+#Nightly backups folde
+*-backups/*
+rescue-backup/*
