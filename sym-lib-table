@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "NDriveShield-rescue")(type "Legacy")(uri "${KIPRJMOD}/NDriveShield-rescue.lib")(options "")(descr ""))
+  (lib (name "freetronics_schematic")(type "Legacy")(uri "${KIPRJMOD}/library/freetronics_schematic.lib")(options "")(descr ""))
+)
